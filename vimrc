@@ -18,3 +18,5 @@ map <up> <nop>
 map <down> <nop>
 map <left> <nop>
 map <right> <nop>
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%80v.\+/
