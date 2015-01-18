@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Volumes/eb_home/work/eventbritecore/django/src'
+let g:netrw_dirhist_2='/Volumes/eb_home/work/organizer_service/organizer_service/models'
+let g:netrw_dirhist_3='/Volumes/eb_home/work/eventbritecore/django/src/www/eventbrite/ebapps/organizers/models'
+let g:netrw_dirhist_4='/Volumes/eb_home/work/organizer_service/organizer_service/containers'
+let g:netrw_dirhist_5='/Users/jradakovich/.vim/bundle/ctrlp'
+let g:netrw_dirhist_6='/Users/jradakovich/.vim/bundle/ctrlp/plugin'
+let g:netrw_dirhist_7='/Users/jradakovich/eventbrite/organizer_service'
